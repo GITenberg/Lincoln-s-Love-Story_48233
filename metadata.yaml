@@ -1,4 +1,8 @@
 _repo: Lincoln-s-Love-Story_48233
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48233-h/images/cover.jpg
 creator:
   author:
     agent_name: Atkinson, Eleanor
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1001
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Stackhouse_Atkinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48233#Lincoln-s-Love-Story
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
